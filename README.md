@@ -1,0 +1,1 @@
+A chrome extension that checks wifi connectivity every 2s. It reports the observed latency as a "badge" on the extension icon. It reports a failure with a red "F" badge if there is no connectivity or the request took more than 5s to respond.
